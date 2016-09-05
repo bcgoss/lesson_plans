@@ -1,7 +1,7 @@
 # Mix Master: Optional Additional Song Functionality
 
 ```
-$ git checkout -b additional-song-functionality
+$ git checkout -b additional_song_functionality
 ```
 
 Implement the spec and functionality for one or more of these user stories:
